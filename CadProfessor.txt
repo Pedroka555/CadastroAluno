@@ -2,5 +2,5 @@
 Matrícula:
 Nome:
 e-mail:
-Telefone:
+Tel:
 Disciplinas que leciona:
