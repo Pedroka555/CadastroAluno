@@ -1,6 +1,6 @@
                                                     Cadastro de aluno
 
-RA:
+RF:
 
 Nome:
 
